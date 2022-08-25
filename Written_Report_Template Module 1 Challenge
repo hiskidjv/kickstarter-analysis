@@ -12,13 +12,13 @@
 
     To help Louise get a clear picture of her interest, we created a pivot table that uses the monthly breakdown of time as the main set of rows and then compares them across the counts of differening input values from the outcome column.  We filtered this by parent category to show us only Theater campaigns.  This allows us to show line graphs for each outcome across the year as follows:
 
-    ![Theater_Results_Across_the_Year](Theater_Outcomes_vs_Launch.png)
+![Theater Results Across the Year](resource/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
     For our goal comparison, we created our own sheet of formulaically-summoned information, grouped by condition from our data set, and then calculated for totals and averages.  This allows for a line graph showing the change in success as the goal levels move higher and higher through various intervals of goal levels.  It's results show a noticabel pattern as follows:
 
-    ![Setting Successful Goals](Outcomes_vs_Goals.png)
+![Setting Successful Goals](resource/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -39,8 +39,8 @@
 
 - What are some limitations of this dataset?
     
-     * One big limitation in this data is that it doesn't necessarily show the kinds of variable that are most pertinent to campaign success, such as the marketting/sharing of the campaign, the attractiveness of the cause, the compelling profile, etc.
+    One big limitation in this data is that it doesn't necessarily show the kinds of variable that are most pertinent to campaign success, such as the marketting/sharing of the campaign, the attractiveness of the cause, the compelling profile, etc.
 
 - What are some other possible tables and/or graphs that we could create?
   
-     * It could be useful to look more at the donor behavior such as average donation to various types of campaigns.  Additionally, it would be worthwhile to wrangle over the kickstarter feature information like staff picks and spotlighting to see what kind of benefit might come from those elements as well.
+    It could be useful to look more at the donor behavior such as average donation to various types of campaigns.  Additionally, it would be worthwhile to wrangle over the kickstarter feature information like staff picks and spotlighting to see what kind of benefit might come from those elements as well.
