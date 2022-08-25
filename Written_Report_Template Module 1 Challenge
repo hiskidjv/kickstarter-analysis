@@ -39,8 +39,8 @@
 
 - What are some limitations of this dataset?
     
-    One big limitation in this data is that it doesn't necessarily show the kinds of variable that are most pertinent to campaign success, such as the marketting/sharing of the campaign, the attractiveness of the cause, the compelling profile, etc.
+     * One big limitation in this data is that it doesn't necessarily show the kinds of variable that are most pertinent to campaign success, such as the marketting/sharing of the campaign, the attractiveness of the cause, the compelling profile, etc.
 
 - What are some other possible tables and/or graphs that we could create?
   
-    It could be useful to look more at the donor behavior such as average donation to various types of campaigns.  Additionally, it would be worthwhile to wrangle over the kickstarter feature information like staff picks and spotlighting to see what kind of benefit might come from those elements as well.
+     * It could be useful to look more at the donor behavior such as average donation to various types of campaigns.  Additionally, it would be worthwhile to wrangle over the kickstarter feature information like staff picks and spotlighting to see what kind of benefit might come from those elements as well.
